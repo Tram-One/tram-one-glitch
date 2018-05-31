@@ -1,5 +1,14 @@
-# tram-one-glitch
+# Tram One on Glitch!
 
+## Summary
+This project is a template for Tram-One apps in Glitch. 
+It is based on the template in tram-one-express and can be downloaded to use locally.
+
+## Development
+Simply click on the sunglasses 🕶above to view changes in the app.
+Create and edit files and simply refresh the view to see your changes!
+
+# Original Instructions (non-glitch)
 ## Developement Instructions
 1. In the root directory, run `npm install` to install all the project dependencies
 2. Run `npm start` to start the dev server
