@@ -2,8 +2,7 @@
   "name": "tram-one-glitch",
   "version": "1.0.0",
   "scripts": {
-    "preinstall": "alias pnpm=npm",
-    "start": "webpack-serve",
+    "start": "webpack-serve --no-hot",
     "prebuild": "cp -r ./public/ dist",
     "build": "webpack",
     "test": "jasmine ./specs/specs.js"
