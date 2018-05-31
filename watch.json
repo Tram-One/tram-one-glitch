@@ -1,0 +1,14 @@
+{
+  "install": {
+    "include": [
+    ]
+  },
+  "restart": {
+    "exclude": [
+    ],
+    "include": [
+      "\\.json"
+    ]
+  },
+  "throttle": 100
+}
